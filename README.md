@@ -5,7 +5,6 @@
 <p>Step 3: right click `EaglerCraftClientHub.html`, and then click `create shortcut`</p>
 <p>Step 4: drag the shortcut onto your desktop or where ever you want it to be</p>
 <p>Step 5: enjoy!</p>
-<p></p>
-<p></p>
+<br>
 <p>Note: if you can't figure out how to make it work you can reach me on my discord Beauzo2979</p>
 
