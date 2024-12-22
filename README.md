@@ -6,5 +6,5 @@
 <p>Step 4: drag the shortcut onto your desktop or where ever you want it to be</p>
 <p>Step 5: enjoy!</p>
 <br>
-<p>Note: if you can't figure out how to make it work you can reach me on my discord Beauzo2979</p>
+<p>Note: if you need help to make it work you can reach me on my discord, Beauzo2979</p>
 
