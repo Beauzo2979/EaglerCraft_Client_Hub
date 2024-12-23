@@ -1,4 +1,4 @@
-<h1>EaglerCraft Client List</h1>
+<h1>EaglerCraft Client Hub</h1>
 <p>How To Use:</p>
 <p>Step 1: Download The .zip file</p>
 <p>Step 2: Extract the .zip file</p>
